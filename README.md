@@ -54,7 +54,7 @@ Figure -02 HALF Subtractor
 
 Developed by:LINGESH D RegisterNumber:25017546
 ```
-module expm2(a,b,s,c);
+module expm3(a,b,s,c);
 input a,b;
 output s,c;
 xor g1(s,a,b);
@@ -70,3 +70,5 @@ endmodule
 
 
 **Result:**
+Thus half adder and half subtractor circuit and verified its truth table in Quartus using Verilog programming.
+
